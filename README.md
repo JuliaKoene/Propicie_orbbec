@@ -1,5 +1,4 @@
-# Avaliação Automatizada de Aptidão Física com a 
-# Câmera Orbbec Femto Mega
+# Avaliação Automatizada de Aptidão Física com a \ Câmera Orbbec Femto Mega
 
 Seguindo a bateria de testes de aptidão física de Fullerton, avaliar os exercícios por meio da <a href="https://doc.orbbec.com/documentation/Orbbec%20Femto%20Mega%20Documentation"> *Câmera Orbbec Femto Mega* </a>.
 
